@@ -1,0 +1,10 @@
+---
+- _metadata:
+    name: "test_config_context"
+    weight: "1000"
+    description: "This is a text config context stored in git"
+    is_active: true
+  
+  ntp-servers:
+    - 172.16.10.22
+    - 172.16.10.23
